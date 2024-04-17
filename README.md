@@ -21,7 +21,7 @@ This project is a simple Google page clone created using HTML and CSS. It allows
 ## Preview
 To preview this website click the link below:
 
-https://yadekola.github.io/registration_form/
+https://yadekola.github.io/zuri-classes/
 
 ## Credits
 - Created by Yakub Ojo 
